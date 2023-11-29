@@ -50,4 +50,4 @@ jobs:
           app-name: 'examen-jen'
           slot-name: 'Production'
           package: '*.jar'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_66BF33A49AC04556B7FAEFCA918DC7CC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_61F0AF9E2EF3446A9E6C6FF0C3FFD0BD }}
